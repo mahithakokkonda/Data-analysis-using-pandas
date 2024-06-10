@@ -1,0 +1,11 @@
+Sales id, Date ,Region,sales_amount,units_sold
+1,01-Jan-24,north,1500,10
+2,02-Jan-24,south,1200,8
+3,03-Jan-24,east,800,5
+4,04-Jan-24,west,2000,15
+5,05-Jan-24,north,1000,7
+6,06-Jan-24,south,900,6
+7,07-Jan-24,east,1600,12
+8,08-Jan-24,west,700,4
+9,09-Jan-24,north,1300,9
+10,10-Jan-24,south,1100,7
